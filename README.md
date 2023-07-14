@@ -18,7 +18,7 @@
 ## Table of contents
 
 - [Requirements](#Requirements)
-- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Installation](#Installation)
 - [Creators](#creators)
 
 
